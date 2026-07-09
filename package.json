@@ -2,11 +2,12 @@
   "name": "reverra-web",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://ellyciaalvarety.github.io/reverra-landing-page/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
   },
   "dependencies": {
     "react": "^18.3.1",
