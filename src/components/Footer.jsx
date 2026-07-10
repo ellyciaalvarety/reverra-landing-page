@@ -50,7 +50,7 @@ export default function Footer() {
           dan performa akustik yang unggul.
         </p>
         <p style={styles.copyright}>
-          © 2024 Reverra. Conscious Luxury for Acoustic Environments.
+          © 2026 Reverra. Conscious Luxury for Acoustic Environments.
         </p>
       </div>
     </footer>
