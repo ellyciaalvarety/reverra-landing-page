@@ -1,5 +1,5 @@
 import React from 'react'
-import ctaBg from '../assets/images/cta-hexagon-panel.jpg'
+import ctaBg from '../assets/images/image.png'
 import { COLORS, FONTS } from '../theme'
 
 const contactItems = [
